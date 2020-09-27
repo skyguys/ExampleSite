@@ -1,8 +1,6 @@
 ## Welcome to Mr. Marchant's Example Page!
 
-You can use the [editor on GitHub](https://github.com/mremarchant/ExampleSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is designed to show a simple, straightforward example of what can be put together on GitHub pages with minimal work. There isn'y anything exciting in the GitHub repository linked above, just access to the Markdown code used to make this site if you want to see it. Everything else I made is at [my main website](https://mrmarchant.com/).
 
 ### Markdown
 
