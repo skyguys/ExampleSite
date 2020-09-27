@@ -1,13 +1,12 @@
 ## Welcome to Mr. Marchant's Example Page!
 
-This page is designed to show a simple, straightforward example of what can be put together on GitHub pages with minimal work. There isn'y anything exciting in the GitHub repository linked above, just access to the Markdown code used to make this site if you want to see it. Everything else I made is at [my main website](https://mrmarchant.com/).
+This page is designed to show a simple, straightforward example of what can be put together on GitHub pages with minimal work. There isn't anything exciting in the GitHub repository linked above, just access to the Markdown code used to make this site if you want to see it. Everything else I made is at [my main website](https://mrmarchant.com/).
 
-### Markdown
+### Using Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See the code block below for examples on how to add headers, lists, links, and more to your site:
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -26,10 +25,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### A Note on Adding Images
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mremarchant/ExampleSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To add an image to your site with markdown, you have two options. You can use an image you uplaod into your repository or provide a link to an image hosted elsewhere. 
 
-### Support or Contact
+###### Repository File
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Cactus](cactus.jpg "Taken at the Fullerton Arboritum on a Pixel 2!")
