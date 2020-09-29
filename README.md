@@ -27,7 +27,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### A Note on Adding Images
 
-!(cactus.jpg "Taken at the Fullerton Arboritum on a Pixel 2!")
+![cactus](cactus.jpg "Taken at the Fullerton Arboritum on a Pixel 2!")
 
 To add an image to your site with markdown, you have two options. You can use an image you uplaod into your repository or provide a link to an image hosted elsewhere. There is already a fantastic guide [here](https://www.markdownguide.org/basic-syntax/#images-1) if you want more details.
 
